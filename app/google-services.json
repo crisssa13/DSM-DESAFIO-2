@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1036758153048",
+    "project_id": "colegioapp-ddfd1",
+    "storage_bucket": "colegioapp-ddfd1.appspot.com"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036758153048:android:0d90e4f702f8c8115ad72d",
+        "android_client_info": {
+          "package_name": "com.example.colegioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXNvz_Joo4vc5J5-dxgURLhU7EX051mb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

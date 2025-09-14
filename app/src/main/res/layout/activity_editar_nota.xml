@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <EditText
+        android:id="@+id/etEstudiante"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Estudiante"/>
+
+    <EditText
+        android:id="@+id/etGrado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Grado"
+        android:layout_marginTop="12dp"/>
+
+    <EditText
+        android:id="@+id/etMateria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Materia"
+        android:layout_marginTop="12dp"/>
+
+    <EditText
+        android:id="@+id/etNotaFinal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nota Final"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="12dp"/>
+
+    <Button
+        android:id="@+id/btnActualizarNota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actualizar"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/btnEliminarNota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eliminar"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColegioApp</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register_here">¿No tienes cuenta? Regístrate</string>
+    <string name="register">Registrarse</string>
+</resources>
